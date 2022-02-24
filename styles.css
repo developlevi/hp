@@ -50,9 +50,7 @@ a{
     line-height: 2;
 
 }
-.skills{
-    
-}
+
 
 .apple{
     width:25%;
@@ -66,16 +64,20 @@ a{
     height:auto;
     margin-left:30px
 }
-.bottom-container{
- 
-}
 .bottom-cloud{
     position:absolute;
+    max-width: 100%;
+    height: auto;
 }
 .top-cloud{
-    display:inline-block;
     position:relative;
-    left:100px;
+    max-width: 100%;
+    left: 100px;
+    height: auto;
+}
+.mountain{
+    max-width: 100%;
+    height: auto;
 }
 .levi{
     width:200px;
